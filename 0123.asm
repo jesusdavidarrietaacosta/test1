@@ -1,0 +1,33 @@
+@10 
+    1
+D=M 
+    2
+@17 
+    3
+M=0 
+    4
+@10 
+    5
+D=M 
+    6
+@100 
+    7
+D=D-A 
+    8
+D;JGT 
+    9
+@10 
+   10
+D=M 
+   11
+@17 
+   12
+M=D+M 
+   13
+@10 
+   14
+M=M-1 
+   15
+0;JMP 
+
+"intente hacer una cuenta regresiva"
